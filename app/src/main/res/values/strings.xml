@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub Profile Finder</string>
+    <string name="hint_username">GitHub username</string>
+    <string name="action_search">Search</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_following">Following</string>
+    <string name="label_repos">Repos</string>
+    <string name="placeholder_title">Find any GitHub user</string>
+    <string name="placeholder_subtitle">Enter a username above and tap Search</string>
+    <string name="error_not_found">No user found with that username</string>
+    <string name="error_generic">Something went wrong. Check your connection.</string>
+</resources>
