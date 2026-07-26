@@ -121,7 +121,7 @@ implementation 'com.github.bumptech.glide:glide:4.16.0'
 
 ## Notes
 
-- The public GitHub API is rate-limited to **60 requests/hour** for unauthenticated clients. If you're hammering it during development, expect `403` responses — they'll surface as the generic error state.
+- The public GitHub API is rate-limited to **60 requests/hour** for unauthenticated clients. If you're hammering it during development, expect `403` responses, they'll surface as the generic error state.
 - The app intentionally has no authentication layer; adding a personal access token via an `Authorization` interceptor would lift the rate limit to 5,000/hour.
 
 ## Screenshot
