@@ -1,4 +1,4 @@
-# GitHub Profile Finder — Android + Retrofit 2
+# GitHub Profile Finder - Android + Retrofit 2
 
 A small Android app that looks up any GitHub user by username and displays their profile (avatar, bio, location, follower / following / repo counts) in a polished Material-themed UI. Built as a practical example of [Retrofit 2](http://square.github.io/retrofit/), Android's go-to type-safe HTTP client.
 
@@ -36,7 +36,7 @@ app/src/main/java/gg/krish/retrofittutorial/
 ## Running
 
 1. Open the project in **Android Studio Hedgehog (or newer)**.
-2. **File → Sync Project with Gradle Files** — first sync downloads Gradle 8.7.
+2. **File → Sync Project with Gradle Files** first sync downloads Gradle 8.7.
 3. **Run ▶** on an emulator or device (API 21+).
 
 That's it. The input defaults to `octocat` so you can verify the round-trip immediately.
