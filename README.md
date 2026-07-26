@@ -1,6 +1,6 @@
 # GitHub Profile Finder - Android + Retrofit 2
 
-A small Android app that looks up any GitHub user by username and displays their profile (avatar, bio, location, follower / following / repo counts) in a polished Material-themed UI. Built as a practical example of [Retrofit 2](http://square.github.io/retrofit/), Android's go-to type-safe HTTP client.
+A small Android app that looks up any GitHub user by username and displays their profile (avatar, bio, location, follower / following / repo counts) in a polished Material-themed UI. Built as a practical example of [Retrofit 2](http://square.github.io/retrofit/), Android's go-to type-safe HTTP client. This Project is for educational purpose.
 
 ## Features
 
